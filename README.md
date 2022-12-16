@@ -17,24 +17,24 @@ You can also find it in the main root of the github repository under the name As
 ## Visual Prototype
 
 <p float="left">
-  <img src="./Visual prototype /0.png" width="33%" />
-  <img src="./Visual prototype /1.png" width="33%" />
-  <img src="./Visual prototype /2.png" width="33%" />
+  <img src="./Visual prototype /0.png" width="32%" />
+  <img src="./Visual prototype /1.png" width="32%" />
+  <img src="./Visual prototype /2.png" width="32%" />
 </p>
 <p float="left">
-  <img src="./Visual prototype /3.png" width="33%" />
-  <img src="./Visual prototype /4.png" width="33%" />
-  <img src="./Visual prototype /5.png" width="33%" />
+  <img src="./Visual prototype /3.png" width="32%" />
+  <img src="./Visual prototype /4.png" width="32%" />
+  <img src="./Visual prototype /5.png" width="32%" />
 </p>
 <p float="left">
-  <img src="./Visual prototype /6.png" width="33%" />
-  <img src="./Visual prototype /7.png" width="33%" />
-  <img src="./Visual prototype /8.png" width="33%" />
+  <img src="./Visual prototype /6.png" width="32%" />
+  <img src="./Visual prototype /7.png" width="32%" />
+  <img src="./Visual prototype /8.png" width="32%" />
 </p>
 <p float="left">
-  <img src="./Visual prototype /11.png" width="33%" />
-  <img src="./Visual prototype /12.png" width="33%" />
-  <img src="./Visual prototype /13.png" width="33%" />
+  <img src="./Visual prototype /11.png" width="32%" />
+  <img src="./Visual prototype /12.png" width="32%" />
+  <img src="./Visual prototype /13.png" width="32%" />
 </p>
 
 ## Technical Prototype
