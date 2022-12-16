@@ -47,7 +47,10 @@ You can also find the 3D model of the Curiosity Rover at Assets/CuriosityRover a
 
 ### Demo
 
-Insert gif or link to demo
+
+https://user-images.githubusercontent.com/93081163/208190123-74d83fd1-5950-4d28-b7fa-1a174c0322e8.mp4
+
+
 
 ### Test It Yourself
 
