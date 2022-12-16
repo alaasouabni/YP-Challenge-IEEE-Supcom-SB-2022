@@ -55,6 +55,9 @@ https://user-images.githubusercontent.com/93081163/208190123-74d83fd1-5950-4d28-
 ### Test It Yourself
 
 You can install AstroGuide and test it yourselves on your android phones by following this [link](https://www.mediafire.com/file/ur1m9rtt5ueumho/astroguide.apk/file) or by scanning this QR Code.
-<p float="center">
-<img src="./AstroGuide.png" width="20%"/>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/18351368/208192677-af1d7353-fd7c-4ab7-822a-60c6896e1def.png" width="20%"/>
+  
+
+
 </p>
