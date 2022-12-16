@@ -38,15 +38,18 @@ You can also find it in the main root of the github repository under the name As
 </p>
 
 ## Technical Prototype
-We chose to implement the prototype using AR technology on our phones since we currently don't have the necessary hardware (Microsoft Hololens 2).  To achieve this, we used Unity Game Engine and ARCore.  
-  
-  The prototype shows a main menu screen displaying the possible scenarios to choose from. When choosing the available scenario, the app redirects you to the augmented environment where you can view a 3D model of the Curiosity rover, the precise components the astronaut must interact with to finish his assignment, as well as the steps he must follow in an augmented user interface (UI) scene.
+We chose to implement the prototype using AR technology on our phones since we don't currently have the necessary hardware (Microsoft Hololens 2). To achieve this, we used Unity Game Engine and ARCore.
+
+The prototype shows a main menu screen displaying the possible scenarios to choose from. When choosing the available scenario, the app redirects you to the augmented environment where you can view a 3D model of the Curiosity rover, the precise components the astronaut must interact with to finish his assignment, as well as the steps he must follow in an augmented user interface (UI) scene. It is also worth noting that the 3D model is rotatable, zoomable and draggable.
+
+You can find the scenes of our Unity Project at Assets/Scenes and the scripts used at Assets/Scripts.  
+You can also find the 3D model of the Curiosity Rover at Assets/CuriosityRover and the prefab we used at Assets/Prefabs/Rover Prefab.prefab
 
 ### Demo
 
 Insert gif or link to demo
 
-### Test it Yourself
+### Test It Yourself
 
 You can install AstroGuide and test it yourselves on your android phones by following this [link](https://www.mediafire.com/file/ur1m9rtt5ueumho/astroguide.apk/file) or by scanning this QR Code.
 <p float="center">
